@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Application">
+      <UniqueIdentifier>{94c66b3c-49af-49c5-9e0f-6c0de9310b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Net">
+      <UniqueIdentifier>{f71b3793-66e1-43c9-bffe-e5abc8f6971a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Net\NetModel">
+      <UniqueIdentifier>{e8df0ce1-b6ea-43a4-ae31-fa91e89e4710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Net\NetController">
+      <UniqueIdentifier>{f56cbdac-0c8f-40ae-a85d-a349f9f8d2af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model">
+      <UniqueIdentifier>{e9949de7-eee5-431e-99e4-812007be949f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\MainForecast">
+      <UniqueIdentifier>{8ea6c5e2-b778-411a-bf51-962e2ff539ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\Coord">
+      <UniqueIdentifier>{445cbf13-e30f-4550-99b1-88573e788d82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\Wind">
+      <UniqueIdentifier>{f894ac02-9b55-46da-a062-322dfad63f59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\Sys">
+      <UniqueIdentifier>{71a82105-62ab-4943-be63-12926c176766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\City">
+      <UniqueIdentifier>{3bec1cb8-87d7-4e7f-a53f-1f9bcf9ec63a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller">
+      <UniqueIdentifier>{ed2ac37a-b22d-487e-a221-1ece3bc583f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\CoordController">
+      <UniqueIdentifier>{2cd7a58a-a487-4ea8-ad8e-02387eb9748a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\MainForecastController">
+      <UniqueIdentifier>{7d7ae552-1927-4151-bcf6-a1af9e4b1234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\SysController">
+      <UniqueIdentifier>{9fa52be7-33f3-4869-9ee0-0cd62e162d5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Model\Weather">
+      <UniqueIdentifier>{2c1fb43f-3041-41ee-b566-94eba9ce8261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\WeatherController">
+      <UniqueIdentifier>{3aab2d9d-1a25-4af3-8b44-1506bb80b7be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\WindController">
+      <UniqueIdentifier>{f50a921a-7c84-4643-9f3a-a89fcfc45801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View">
+      <UniqueIdentifier>{b927b9a2-2f25-44e7-9992-a170803e1e5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\IObserver">
+      <UniqueIdentifier>{f2595967-1bfc-4c5d-8d4e-6f1f53c39397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Enum">
+      <UniqueIdentifier>{3521fb5a-5ddd-4477-858d-a3a16ccdd7de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\CoordView">
+      <UniqueIdentifier>{1c2554a5-793c-452e-8a38-ee26d294e097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\Controller\CityController">
+      <UniqueIdentifier>{22ee3255-a392-4422-95fa-630008d38177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\MainForecastView">
+      <UniqueIdentifier>{09a7bd08-0954-438f-b28d-25ad2547906c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\SysView">
+      <UniqueIdentifier>{8abb4fce-23d4-4fa1-9bfb-fdc02a364a06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\WeatherView">
+      <UniqueIdentifier>{5baccb13-9a87-4311-936a-c63db121af33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\WindView">
+      <UniqueIdentifier>{3d335e8e-d595-4af0-bfb8-88d3e770639d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Application\View\CityView">
+      <UniqueIdentifier>{00eefa47-9993-4cd5-bf83-ae171ad4ba3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Net\NetModel\HTTPRequest">
+      <UniqueIdentifier>{d7894595-8dda-4b77-aaa8-f783d4e5523a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Net\NetModel\HTTPRespons">
+      <UniqueIdentifier>{b431bf71-ef33-4baa-86eb-fba862ff41f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ControllersManager">
+      <UniqueIdentifier>{edf4b608-f28a-49cf-ac2e-947ab3db54ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Weather.cpp">
+      <Filter>Исходные файлы\Application\Model\Weather</Filter>
+    </ClCompile>
+    <ClCompile Include="MainForecast.cpp">
+      <Filter>Исходные файлы\Application\Model\MainForecast</Filter>
+    </ClCompile>
+    <ClCompile Include="Coord.cpp">
+      <Filter>Исходные файлы\Application\Model\Coord</Filter>
+    </ClCompile>
+    <ClCompile Include="Wind.cpp">
+      <Filter>Исходные файлы\Application\Model\Wind</Filter>
+    </ClCompile>
+    <ClCompile Include="Sys.cpp">
+      <Filter>Исходные файлы\Application\Model\Sys</Filter>
+    </ClCompile>
+    <ClCompile Include="City.cpp">
+      <Filter>Исходные файлы\Application\Model\City</Filter>
+    </ClCompile>
+    <ClCompile Include="CoordController.cpp">
+      <Filter>Исходные файлы\Application\Controller\CoordController</Filter>
+    </ClCompile>
+    <ClCompile Include="MainForecastController.cpp">
+      <Filter>Исходные файлы\Application\Controller\MainForecastController</Filter>
+    </ClCompile>
+    <ClCompile Include="SysController.cpp">
+      <Filter>Исходные файлы\Application\Controller\SysController</Filter>
+    </ClCompile>
+    <ClCompile Include="WeatherController.cpp">
+      <Filter>Исходные файлы\Application\Controller\WeatherController</Filter>
+    </ClCompile>
+    <ClCompile Include="WindController.cpp">
+      <Filter>Исходные файлы\Application\Controller\WindController</Filter>
+    </ClCompile>
+    <ClCompile Include="CoordView.cpp">
+      <Filter>Исходные файлы\Application\View\CoordView</Filter>
+    </ClCompile>
+    <ClCompile Include="CityController.cpp">
+      <Filter>Исходные файлы\Application\Controller\CityController</Filter>
+    </ClCompile>
+    <ClCompile Include="MainForecastView.cpp">
+      <Filter>Исходные файлы\Application\View\MainForecastView</Filter>
+    </ClCompile>
+    <ClCompile Include="SysView.cpp">
+      <Filter>Исходные файлы\Application\View\SysView</Filter>
+    </ClCompile>
+    <ClCompile Include="WeatherView.cpp">
+      <Filter>Исходные файлы\Application\View\WeatherView</Filter>
+    </ClCompile>
+    <ClCompile Include="WindView.cpp">
+      <Filter>Исходные файлы\Application\View\WindView</Filter>
+    </ClCompile>
+    <ClCompile Include="CityView.cpp">
+      <Filter>Исходные файлы\Application\View\CityView</Filter>
+    </ClCompile>
+    <ClCompile Include="HTTPRequest.cpp">
+      <Filter>Исходные файлы\Net\NetModel\HTTPRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="HTTPRespons.cpp">
+      <Filter>Исходные файлы\Net\NetModel\HTTPRespons</Filter>
+    </ClCompile>
+    <ClCompile Include="NetController.cpp">
+      <Filter>Исходные файлы\Net\NetController</Filter>
+    </ClCompile>
+    <ClCompile Include="ControllersManager.cpp">
+      <Filter>Исходные файлы\ControllersManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Weather.hpp">
+      <Filter>Исходные файлы\Application\Model\Weather</Filter>
+    </ClInclude>
+    <ClInclude Include="City.hpp">
+      <Filter>Исходные файлы\Application\Model\City</Filter>
+    </ClInclude>
+    <ClInclude Include="Coord.hpp">
+      <Filter>Исходные файлы\Application\Model\Coord</Filter>
+    </ClInclude>
+    <ClInclude Include="MainForecast.hpp">
+      <Filter>Исходные файлы\Application\Model\MainForecast</Filter>
+    </ClInclude>
+    <ClInclude Include="Sys.hpp">
+      <Filter>Исходные файлы\Application\Model\Sys</Filter>
+    </ClInclude>
+    <ClInclude Include="Wind.hpp">
+      <Filter>Исходные файлы\Application\Model\Wind</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordController.hpp">
+      <Filter>Исходные файлы\Application\Controller\CoordController</Filter>
+    </ClInclude>
+    <ClInclude Include="MainForecastController.hpp">
+      <Filter>Исходные файлы\Application\Controller\MainForecastController</Filter>
+    </ClInclude>
+    <ClInclude Include="SysController.hpp">
+      <Filter>Исходные файлы\Application\Controller\SysController</Filter>
+    </ClInclude>
+    <ClInclude Include="WeatherController.hpp">
+      <Filter>Исходные файлы\Application\Controller\WeatherController</Filter>
+    </ClInclude>
+    <ClInclude Include="WindController.hpp">
+      <Filter>Исходные файлы\Application\Controller\WindController</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>Исходные файлы\Application\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordView.hpp">
+      <Filter>Исходные файлы\Application\View\CoordView</Filter>
+    </ClInclude>
+    <ClInclude Include="ICoordObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="CityController.hpp">
+      <Filter>Исходные файлы\Application\Controller\CityController</Filter>
+    </ClInclude>
+    <ClInclude Include="IMainForecastObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="MainForecastView.hpp">
+      <Filter>Исходные файлы\Application\View\MainForecastView</Filter>
+    </ClInclude>
+    <ClInclude Include="ISysObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="SysView.hpp">
+      <Filter>Исходные файлы\Application\View\SysView</Filter>
+    </ClInclude>
+    <ClInclude Include="WeatherView.hpp">
+      <Filter>Исходные файлы\Application\View\WeatherView</Filter>
+    </ClInclude>
+    <ClInclude Include="IWeatherObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="IWindObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="WindView.hpp">
+      <Filter>Исходные файлы\Application\View\WindView</Filter>
+    </ClInclude>
+    <ClInclude Include="ICityObserver.h">
+      <Filter>Исходные файлы\Application\View\IObserver</Filter>
+    </ClInclude>
+    <ClInclude Include="CityView.hpp">
+      <Filter>Исходные файлы\Application\View\CityView</Filter>
+    </ClInclude>
+    <ClInclude Include="HTTPRequest.hpp">
+      <Filter>Исходные файлы\Net\NetModel\HTTPRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="HTTPRespons.hpp">
+      <Filter>Исходные файлы\Net\NetModel\HTTPRespons</Filter>
+    </ClInclude>
+    <ClInclude Include="NetController.hpp">
+      <Filter>Исходные файлы\Net\NetController</Filter>
+    </ClInclude>
+    <ClInclude Include="ControllersManager.hpp">
+      <Filter>Исходные файлы\ControllersManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
